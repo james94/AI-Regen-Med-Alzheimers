@@ -1,7 +1,7 @@
 # AI Regenerative Medicine
 
 Various Research on my own Practical Applications that apply AI in Regenerative Medicine toward Pluripotent Stem Cells. I also tie in relevant projects
-that I will work on in my courses in SJSU's MS AI as a Grad Student.
+that I will work on in my courses in **[SJSU's MS AI (2021-2022 Academic Catalog)](https://catalog.sjsu.edu/preview_program.php?catoid=12&poid=4051)** as a Grad Student.
 
 ## Demo Applications
 
